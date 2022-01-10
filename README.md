@@ -1,5 +1,5 @@
-оригинальный репозиторий.  
-xhttps://github.com/nats-io/nats.rs.  
+Оригинальный репозиторий.  
+https://github.com/nats-io/nats.rs.  
 
 <p align="center">
   <img src="logo/logo.svg">
